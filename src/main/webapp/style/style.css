@@ -1,0 +1,181 @@
+main {
+  width: 90%;
+  background-color: brown;
+  border: 5px outset black;
+  margin: 3px;
+}
+
+main .wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: aliceblue;
+}
+
+main h1 {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main h2 {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main h3 {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main h4 {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main h4 {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main h5 {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main h6 {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main article {
+  background-color: #84689e;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main article h1 {
+  background-color: blueviolet;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main article h2 {
+  background-color: blueviolet;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main article h3 {
+  background-color: blueviolet;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main article div {
+  background-color: blueviolet;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+main article div p {
+  background-color: darkblue;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  border: 8px outset black;
+  margin: 3px;
+  background-color: #f5eaea;
+}
+
+header {
+  background-color: aquamarine;
+  border-style: initial;
+  border-color: black;
+  border: 5px outset black;
+  margin: 3px;
+  width: 90%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 1% 0;
+}
+
+header h1 {
+  font-size: 50pt;
+  text-align: center;
+  background-color: beige;
+  border: 5px outset black;
+  margin: 3px;
+}
+
+header div {
+  background-color: blue;
+  border: 4px outset black;
+  margin: 3px;
+}
+
+header div p {
+  background-color: chocolate;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+div {
+  background-color: antiquewhite;
+  border: 3px outset black;
+  margin: 3px;
+}
+
+div .wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+div .logout {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+footer {
+  width: 90%;
+}
+
+.Copyright {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  font-size: 10pt;
+}
+
+.property {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+
+.SASS {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+/*# sourceMappingURL=style.css.map */
